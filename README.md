@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/82999551/144830250-e3147f25-c341-4020-95fd-a10fbf45ead2.jpg)]
+[![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)]
 <h1 align="center">Hi 👋, I'm Amruth Krishna A</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
