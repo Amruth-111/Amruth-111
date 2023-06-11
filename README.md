@@ -1,4 +1,4 @@
-[![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)]
+![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)
 <h1 align="center">Hi 👋, I'm Amruth Krishna A</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
