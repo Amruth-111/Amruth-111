@@ -11,6 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Amruth-111/AWS-expensetracker.git](https://github.com/Amruth-111/AWS-expensetracker.git)
 
 - 💬 Ask me about **Nodejs,express,mysql**
+- My experience [https://drive.google.com/file/d/1qlhJAnJ0HI0EhbZM08dlq3OWhScAldkg/view?usp=sharing](https://drive.google.com/file/d/1qlhJAnJ0HI0EhbZM08dlq3OWhScAldkg/view?usp=sharing)
 
 - 📫 How to reach me **amruthkrishnaa@gmail.com**
 
