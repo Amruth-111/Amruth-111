@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amruth-111/AWS-expensetracker.git](https://github.com/Amruth-111/AWS-expensetracker.git)
+- 👨‍💻 All of my projects are available at https://amruth111.github.io/amruth.github.io/ 
 
 - 💬 Ask me about **Nodejs,express,mysql**
 - My experience [https://drive.google.com/file/d/1qlhJAnJ0HI0EhbZM08dlq3OWhScAldkg/view?usp=sharing](https://drive.google.com/file/d/1qlhJAnJ0HI0EhbZM08dlq3OWhScAldkg/view?usp=sharing)
