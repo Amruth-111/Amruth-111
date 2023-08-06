@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at https://amruth-111.github.io/amruth.github.io/
+- 👨‍💻 All of my projects are available at https://amruth-111.github.io/portfolio_amruth.github.io/
 
 - 💬 Ask me about **Nodejs,express,mysql**
 - All of my experiences are in [https://drive.google.com/file/d/1qlhJAnJ0HI0EhbZM08dlq3OWhScAldkg/view?usp=sharing](https://drive.google.com/file/d/1qlhJAnJ0HI0EhbZM08dlq3OWhScAldkg/view?usp=sharing)
